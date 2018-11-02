@@ -9,4 +9,9 @@
 ### 二、PCA.ipynb
 + 用pca做数据降维
 
-### 三、evaluate.py:实现F-score,加权F-score
+### 三、evaluate.py
++ 实现F-score,加权F-score
+
+
+### 四、boosting tree.py
++ 实现，回归问题下提升树算法。
